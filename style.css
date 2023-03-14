@@ -1,0 +1,16 @@
+h1 {
+    color:aqua; 
+    text-align: center;
+    background-color: black;
+    font-size: larger;
+    line-height: 2cm;
+}
+
+h2 {
+    font-style: italic;
+    font-weight: 400;
+    font-family:'Times New Roman', Times, serif;
+}
+body {
+    background-color: rgb(177, 177, 214);
+}
